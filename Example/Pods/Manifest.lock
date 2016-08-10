@@ -1,5 +1,5 @@
 PODS:
-  - SimplifiedNotificationCenter (0.1.0)
+  - SimplifiedNotificationCenter (1.0.4)
 
 DEPENDENCIES:
   - SimplifiedNotificationCenter (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SimplifiedNotificationCenter: 624de8c9d0d9ee3921fe0b351ee3a9e69df0b3c6
+  SimplifiedNotificationCenter: 658f1d07dd1b6a324886a405de6867ab60fb806b
 
 PODFILE CHECKSUM: f07ad88c25b4f6d4f0515faf2bd66808d1e54800
 
